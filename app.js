@@ -21,7 +21,7 @@ $(document).ready(function(){
 
          var icons = {
          	'clear-day': 'clear-day.png',
-         	'clear-night': 'clear-night.jpg',
+         	'clear-night': 'clear-nigth.jpg',
          	'rain': 'rain.jpg',
          	'snow': 'snow.jpg',
          	'sleet': 'sleet.png',
@@ -29,7 +29,7 @@ $(document).ready(function(){
          	'fog': 'fog.png',
          	'cloudy': 'cloudy.png',
          	'partly-cloudy-day': 'partly-cloudy-day.jpg',
-         	'partly-cloudy-night': 'partly-cloudy-night.png',
+         	'partly-cloudy-night': 'partly-cloudy-nigth.png',
          	'hail': '',
          	'thunderstorm': ''
          };
