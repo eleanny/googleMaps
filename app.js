@@ -28,8 +28,8 @@ $(document).ready(function(){
          	'wind': '',
          	'fog': 'fog.png',
          	'cloudy': 'cloudy.png',
-         	'partly-cloudy-day': '',
-         	'partly-cloudy-night': '',
+         	'partly-cloudy-day': 'partly-cloudy-day.jpg',
+         	'partly-cloudy-night': 'partly-cloudy-night.png',
          	'hail': '',
          	'thunderstorm': ''
          };
